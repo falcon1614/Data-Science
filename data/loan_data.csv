@@ -1,0 +1,5 @@
+Loan_ID,Loan_Amount,Interest_Rate,Loan_Type,Employment_Status
+L001,500000,7.5,Home Loan,Salaried
+L002,300000,8.2,Personal Loan,Self-Employed
+L003,700000,6.9,Home Loan,Salaried
+L004,200000,9.1,Education Loan,Student
